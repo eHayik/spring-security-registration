@@ -24,3 +24,5 @@ target/
 .idea/
 *.iml
 *.iws
+
+.java-version
